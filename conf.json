@@ -1,2 +1,7 @@
 {
+	"consumer_group_prefix": "",
+	"auto_offset_reset": "latest",
+	"control_loop_interval": 2.0,
+	"control_poll_timeout": 0.5,
+	"step_stop_tolerance": 10.0
 }
