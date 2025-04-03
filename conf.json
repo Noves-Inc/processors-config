@@ -1,4 +1,5 @@
 {
+	"report_status": false,
 	"consumer_group_prefix": "",
 	"auto_offset_reset": "latest",
 	"control_loop_interval": 2.0,
